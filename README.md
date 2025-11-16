@@ -37,15 +37,18 @@ E-Mail: [archipenkon@gmail.com](mailto:archipenkon@gmail.com)
 ## Meine Projekte
 
 **Energy Monitor – Anomaly Detection**  
-Python · Time Series · ML · Streamlit — End-to-End Monitoring mit Anomalieerkennung.  
+Python · Time Series · ML · Streamlit
+End-to-End Monitoring mit Anomalieerkennung.  
 *Repo folgt*
 
-**Financial Fraud Detection – Graph ML**  
-Neo4j · Node2Vec · ML — Graphbasierte Fraud Detection.  
+**Financial Fraud Detection - Graph ML**  
+Neo4j · Node2Vec · ML 
+Graphbasierte Fraud Detection.  
  [Projekt öffnen](https://github.com/NataliaArchipenko/financial-fraud-detection-graph-ml)
 
 **Graph Embedding Lab**  
-Graphdaten · Feature Engineering — Testumgebung für Graph-Algorithmen.  
+Graphdaten · Feature Engineering
+Testumgebung für Graph-Algorithmen.  
  [Repository](https://github.com/NataliaArchipenko/graph-embedding-lab)
 
 ---
