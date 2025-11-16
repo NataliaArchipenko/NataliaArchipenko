@@ -1,45 +1,84 @@
-Hallo, ich bin Natalia
+#  Hallo, ich bin Natalia  
+### Data Analytics · Machine Learning · Anomaly Detection · Graphdaten
 
-Derzeit  schließe ich meine Ausbildung zur Fachinformatikerin für Daten- und
-Prozessanalyse ab.
+Ich schließe derzeit meine Ausbildung zur **Fachinformatikerin für Daten- und Prozessanalyse** ab und spezialisiere mich auf datengetriebene Modelle, Anomalieerkennung und Zeitreihenanalysen.
 
-Mit starkem mathematischem Verständnis, analytischem Denken und einer
-großen Affinität zu Zahlen beschäftige ich mich intensiv mit Datenanalyse,
-Anomalieerkennung und Zeitreihenmodellen.
+Durch mein starkes mathematisches Verständnis, analytisches Denken und meine Affinität zu Zahlen entwickle ich Lösungen, die Präzision und Kreativität vereinen.  
+Mit Leidenschaft strukturiere ich Daten, erkenne Muster und baue Modelle, die Unternehmen helfen, fundierte Entscheidungen zu treffen.
 
-Seit meiner Kindheit gehe ich sicher und gern mit Zahlen um. Heute nutze ich diese
-Stärke, um Daten zu strukturieren, Muster zu erkennen und fundierte Lösungen zu 
-entwickeln. Technisches Verständnis und analytisches Denken verbinde ich in meiner 
-Arbeit und löse dabei Aufgaben, die sowohl Genauigkeit als auch Kreativität erfordern.
+---
 
-### Kompetenzen:<br>
-- **Python**, Pandas, Scikit-learn,
-- **SQL**, Neo4j, GraphDB
-- **Datenvisualisierung** (Power BI,  Streamlit)
-- **Machine Learning**
-### Meine aktuellen Projekte:
-- **Energy Monitor – Anomaly Detection (Time Series + ML + Streamlit)**
-- **Fraud Detection mit Graph-Embeddings (Neo4j, Node2Vec)**
-- **Graph Embedding Lab – Machine Learning auf Graphdaten**
-### LinkedIn: linkedin.com/in/natalia-archipenko-335357271
+##  Aktuell: Open für Jobangebote ab Januar 2026  
+**Data Analytics · Data Science · Machine Learning · Business Intelligence**
 
-**Ab Januar 2026 offen für Jobangebote** im Bereich Data Analytics & Machine Learning.
+LinkedIn: [linkedin.com/in/natalia-archipenko-335357271](https://www.linkedin.com/in/natalia-archipenko-335357271)
 
-### Technologien & Tools
+---
 
-**Datenanalyse & ML:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+# Tech Stack
 
-**Datenbanken:**  
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![GraphDB](https://img.shields.io/badge/GraphDB-CC2927?style=flat-square&logo=databricks&logoColor=white)
+### **Datenanalyse & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Dashboarding & Apps:**  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+### **Datenbanken**
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
+![GraphDB](https://img.shields.io/badge/GraphDB-CC0000?style=for-the-badge)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaArchipenko&show_icons=true&theme=transparent)
+### **Visualisierung & Apps**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+---
+
+# Meine Projekte (Auswahl)
+
+##  **1. Energy Monitor - Anomaly Detection**  
+**Python · Time Series · ML · Streamlit**  
+Ein End-to-End Projekt zur Überwachung von Energieverbrauch:  
+- Datenbereinigung & Feature Engineering  
+- Modellierung von Anomalien (Isolation Forest & STL-Residuals)  
+- Visualisierung der Ergebnisse in einer interaktiven Streamlit-App  
+   *Repository folgt bald*
+
+---
+
+## **2. Financial Fraud Detection – Graph ML**  
+**Neo4j · Graph Embeddings · Machine Learning**  
+Erkennung verdächtiger Transaktionen durch Graphstruktur:  
+- Datenmodell in Neo4j  
+- Node2Vec Embeddings  
+- Klassifikationsmodell zur Fraud Detection  
+ [Zum Projekt](https://github.com/NataliaArchipenko/financial-fraud-detection-graph-ml)
+
+---
+
+## **3. Graph Embedding Lab**  
+**Graphdaten · Feature Engineering · ML**  
+Experimentelle Umgebung für Graph-Algorithmen und Embeddings.  
+ [Repository öffnen](https://github.com/NataliaArchipenko/graph-embedding-lab)
+
+---
+
+# GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=NataliaArchipenko&show_icons=true&theme=calm)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaArchipenko&layout=compact&theme=calm)
+
+---
+
+# Lernfokus 2025  
+- Vertiefung: Anomaly Detection & Zeitreihen  
+- Streamlit Apps & Power BI Dashboards  
+- Machine Learning für Graphdaten  
+- Modell-Deployment (Flask / Streamlit Cloud)
+
+---
+
+# Zusammenarbeit  
+Bei Interesse an Projekten, Austausch oder Jobangeboten einfach melden.
+
+LinkedIn: [Natalia Archipenko](https://www.linkedin.com/in/natalia-archipenko-335357271/)  
