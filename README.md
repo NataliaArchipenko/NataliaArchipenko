@@ -10,7 +10,7 @@ strukturieren, Muster zu erkennen und fundierte Lösungen zu entwickeln.
 Technisches Verständnis und analytisches Denken verbinde ich in meiner Arbeit und löse dabei Aufgaben, die 
 sowohl Genauigkeit als auch Kreativität erfordern.
 
-**Kompetenzen:**<br><br>
+**Kompetenzen:**<br>
 Python · Pandas · Scikit-learn · SQL · Neo4j · GraphDB  
 Power BI · Streamlit · Datenvisualisierung · Machine Learning
 
