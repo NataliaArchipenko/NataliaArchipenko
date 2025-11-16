@@ -30,8 +30,6 @@ E-Mail: [archipenkon@gmail.com](mailto:archipenkon@gmail.com)
 ![SPARQL](https://img.shields.io/badge/SPARQL-1C4587?style=flat)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CB5?style=flat)
 ![NetworkX](https://img.shields.io/badge/NetworkX-333333?style=flat)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
