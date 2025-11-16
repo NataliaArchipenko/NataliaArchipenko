@@ -51,14 +51,14 @@ Erkennung verdächtiger Transaktionen durch Graphstruktur:
 - Datenmodell in Neo4j  
 - Node2Vec Embeddings  
 - Klassifikationsmodell zur Fraud Detection  
-[Zum Projekt](https://github.com/NataliaArchipenko/financial-fraud-detection-graph-ml)
+  [Zum Projekt](https://github.com/NataliaArchipenko/financial-fraud-detection-graph-ml)
 
 ---
 
 ## **3. Graph Embedding Lab**  
 **Graphdaten · Feature Engineering · ML**  
 Experimentelle Umgebung für Graph-Algorithmen und Embeddings.  
-[Repository öffnen](https://github.com/NataliaArchipenko/graph-embedding-lab)
+  [Repository öffnen](https://github.com/NataliaArchipenko/graph-embedding-lab)
 
 ---
 
@@ -81,4 +81,4 @@ Experimentelle Umgebung für Graph-Algorithmen und Embeddings.
 # Zusammenarbeit  
 Bei Interesse an Projekten, Austausch oder Jobangeboten einfach melden.
 
-E-Mail: [archipenkon.gmail.com/)  
+E-Mail: [archipenkon@gmail.com](mailto:archipenkon@gmail.com)
