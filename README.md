@@ -49,10 +49,14 @@ Graphdaten · Feature Engineering — Testumgebung für Graph-Algorithmen.
 
 ### GitHub Stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NataliaArchipenko&show_icons=true&hide_title=false&hide_border=true&bg_color=00000000&title_color=0F4C75&text_color=111827&icon_color=0F4C75" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaArchipenko&layout=compact&hide_border=true&bg_color=00000000&title_color=0F4C75&text_color=111827" />
-</p>
+<a href="https://github.com/NataliaArchipenko">
+  <img src="https://github-readme-stats.vercel.app/api?username=NataliaArchipenko&show_icons=true&hide_title=false&hide_border=true&bg_color=00000000&title_color=0F4C75&text_color=111827&icon_color=0F4C75" />
+</a>
+
+<a href="https://github.com/NataliaArchipenko">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaArchipenko&layout=compact&hide_border=true&bg_color=00000000&title_color=0F4C75&text_color=111827" />
+</a>
+
 
 
 
