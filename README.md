@@ -1,6 +1,7 @@
 Hallo, ich bin Natalia
 
-Derzeit  schließe ich meine Ausbildung zur Fachinformatikerin für Daten- und Prozessanalyse ab.//
+Derzeit  schließe ich meine Ausbildung zur Fachinformatikerin für Daten- und Prozessanalyse ab.
+
 Mit starkem mathematischem Verständnis, analytischem Denken und einer großen Affinität zu Zahlen
 beschäftige ich mich intensiv mit Datenanalyse, Anomalieerkennung und Zeitreihenmodellen.
 
