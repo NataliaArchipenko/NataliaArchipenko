@@ -17,7 +17,6 @@ Arbeit und löse dabei Aufgaben, die sowohl Genauigkeit als auch Kreativität er
 - **SQL**, Neo4j, GraphDB
 - **Datenvisualisierung** (Power BI,  Streamlit)
 - **Machine Learning**
-- 
 ### Meine aktuellen Projekte:
 - **Energy Monitor – Anomaly Detection (Time Series + ML + Streamlit)**
 - **Fraud Detection mit Graph-Embeddings (Neo4j, Node2Vec)**
