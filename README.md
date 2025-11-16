@@ -13,6 +13,7 @@ Mit Leidenschaft strukturiere ich Daten, erkenne Muster und baue Modelle, die Un
 **Data Analytics · Data Science · Machine Learning · Business Intelligence**
 
 LinkedIn: [linkedin.com/in/natalia-archipenko-335357271](https://www.linkedin.com/in/natalia-archipenko-335357271)
+
 E-Mail: [archipenkon@gmail.com](mailto:archipenkon@gmail.com)
 ---
 
