@@ -17,7 +17,11 @@ Arbeit und löse dabei Aufgaben, die sowohl Genauigkeit als auch Kreativität er
 - **SQL**, Neo4j, GraphDB
 - **Datenvisualisierung** (Power BI,  Streamlit)
 - **Machine Learning**
-
+- 
+### Meine aktuellen Projekte:
+- **Energy Monitor – Anomaly Detection (Time Series + ML + Streamlit)**
+- **Fraud Detection mit Graph-Embeddings (Neo4j, Node2Vec)**
+- **Graph Embedding Lab – Machine Learning auf Graphdaten**
 ### LinkedIn: linkedin.com/in/natalia-archipenko-335357271
 
 **Ab Januar 2026 offen für Jobangebote** im Bereich Data Analytics & Machine Learning.
