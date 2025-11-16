@@ -27,6 +27,7 @@ E-Mail: [archipenkon@gmail.com](mailto:archipenkon@gmail.com)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 ![GraphDB](https://img.shields.io/badge/GraphDB-CC0000?style=flat)
+![SPARQL](https://img.shields.io/badge/SPARQL-1C4587?style=flat)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=flat&logo=database&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -34,6 +35,8 @@ E-Mail: [archipenkon@gmail.com](mailto:archipenkon@gmail.com)
 ![NetworkX](https://img.shields.io/badge/NetworkX-333333?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CB5?style=flat)
 ![Karateclub](https://img.shields.io/badge/Karateclub-000000?style=flat)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
 
 ---
 
