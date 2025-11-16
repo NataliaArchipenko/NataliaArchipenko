@@ -20,23 +20,18 @@ E-Mail: [archipenkon@gmail.com](mailto:archipenkon@gmail.com)
 
 # Tech Stack
 
-### **Datenanalyse & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### **Datenbanken**
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
-![GraphDB](https://img.shields.io/badge/GraphDB-CC0000?style=for-the-badge)
-
-### **Visualisierung & Apps**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=flat&logo=database&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+![GraphDB](https://img.shields.io/badge/GraphDB-CC0000?style=flat)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
-# Meine Projekte (Auswahl)
+# Meine Projekte
 
 ##  **1. Energy Monitor - Anomaly Detection**  
 **Python · Time Series · ML · Streamlit**  
@@ -65,22 +60,26 @@ Experimentelle Umgebung für Graph-Algorithmen und Embeddings.
 
 ---
 
-# GitHub Stats
+### GitHub Stats
 
-<div style="display: flex; gap: 20px;">
+<a href="https://github.com/NataliaArchipenko">
+  <img src="https://github-readme-stats.vercel.app/api?username=NataliaArchipenko
+  &show_icons=true
+  &hide_title=false
+  &hide_border=true
+  &bg_color=00000000
+  &title_color=0F4C75
+  &text_color=111827
+  &icon_color=0F4C75" />
+</a>
 
-  <!-- GitHub Stats -->
-  <div style="flex: 1;">
-    <h3>GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=NataliaArchipenko&show_icons=true&theme=tokyonight" />
-  </div>
-
-  <!-- Most Used Languages -->
-  <div style="flex: 1;">
-    <h3>Most Used Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaArchipenko&layout=compact&theme=tokyonight" />
-  </div>
-
-</div>
+<a href="https://github.com/NataliaArchipenko">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaArchipenko
+  &layout=compact
+  &hide_border=true
+  &bg_color=00000000
+  &title_color=0F4C75
+  &text_color=111827" />
+</a>
 
 
