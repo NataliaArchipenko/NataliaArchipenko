@@ -1,7 +1,7 @@
 #  Hallo, ich bin Natalia  
 ### Data Analytics · Machine Learning · Anomaly Detection · Graphdaten
 
-Ich schließe derzeit meine Umschulung zur **Fachinformatikerin für Daten- und Prozessanalyse** (IHK) ab und spezialisiere mich auf datengetriebene Modelle, Anomalieerkennung und Zeitreihenanalysen.
+Ich schließe derzeit meine Umschulung zur **Fachinformatikerin für Daten- und Prozessanalyse** (IHK-Zertifikat) ab und spezialisiere mich auf datengetriebene Modelle, Anomalieerkennung und Zeitreihenanalysen.
 
 Durch mein starkes mathematisches Verständnis, analytisches Denken und meine Affinität zu Zahlen entwickle ich Lösungen, 
 die Präzision und Kreativität vereinen.  
