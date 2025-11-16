@@ -33,6 +33,7 @@ E-Mail: [archipenkon@gmail.com](mailto:archipenkon@gmail.com)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![NetworkX](https://img.shields.io/badge/NetworkX-333333?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CB5?style=flat)
+![Karateclub](https://img.shields.io/badge/Karateclub-000000?style=flat)
 
 ---
 
