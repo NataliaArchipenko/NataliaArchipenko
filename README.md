@@ -70,13 +70,13 @@ Experimentelle Umgebung für Graph-Algorithmen und Embeddings.
   <!-- GitHub Stats -->
   <div style="flex: 1;">
     <h3>GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=NataliArchipenko&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NataliaArchipenko&show_icons=true&theme=tokyonight" />
   </div>
 
   <!-- Most Used Languages -->
   <div style="flex: 1;">
     <h3>Most Used Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliArchipenko&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaArchipenko&layout=compact&theme=tokyonight" />
   </div>
 
 </div>
