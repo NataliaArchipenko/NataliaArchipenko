@@ -10,11 +10,9 @@ strukturieren, Muster zu erkennen und fundierte Lösungen zu entwickeln.
 Technisches Verständnis und analytisches Denken verbinde ich in meiner Arbeit und löse dabei Aufgaben, die 
 sowohl Genauigkeit als auch Kreativität erfordern.
 
-**Kompetenzen:**
-Python · Pandas · Scikit-learn · SQL · Neo4j · GraphDB
+**Kompetenzen:**<br><br>
+Python · Pandas · Scikit-learn · SQL · Neo4j · GraphDB  
 Power BI · Streamlit · Datenvisualisierung · Machine Learning
-<br>
-
 
 **LinkedIn:** linkedin.com/in/natalia-archipenko-335357271
 
