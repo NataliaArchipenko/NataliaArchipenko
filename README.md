@@ -13,7 +13,7 @@ Mit Leidenschaft strukturiere ich Daten, erkenne Muster und baue Modelle, die Un
 **Data Analytics · Data Science · Machine Learning · Business Intelligence**
 
 LinkedIn: [linkedin.com/in/natalia-archipenko-335357271](https://www.linkedin.com/in/natalia-archipenko-335357271)
-
+E-Mail: [archipenkon@gmail.com](mailto:archipenkon@gmail.com)
 ---
 
 # Tech Stack
@@ -65,21 +65,20 @@ Experimentelle Umgebung für Graph-Algorithmen und Embeddings.
 
 # GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NataliaArchipenko&show_icons=true&theme=calm)
+<div style="display: flex; gap: 20px;">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaArchipenko&layout=compact&theme=calm)
+  <!-- GitHub Stats -->
+  <div style="flex: 1;">
+    <h3>GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=NataliArchipenko&show_icons=true&theme=tokyonight" />
+  </div>
 
----
+  <!-- Most Used Languages -->
+  <div style="flex: 1;">
+    <h3>Most Used Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliArchipenko&layout=compact&theme=tokyonight" />
+  </div>
 
-# Lernfokus 2025  
-- Vertiefung: Anomaly Detection & Zeitreihen  
-- Streamlit Apps & Power BI Dashboards  
-- Machine Learning für Graphdaten  
-- Modell-Deployment (Flask / Streamlit Cloud)
+</div>
 
----
 
-# Zusammenarbeit  
-Bei Interesse an Projekten, Austausch oder Jobangeboten einfach melden.
-
-E-Mail: [archipenkon@gmail.com](mailto:archipenkon@gmail.com)
