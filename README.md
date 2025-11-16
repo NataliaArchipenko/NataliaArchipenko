@@ -14,6 +14,7 @@ Python · Pandas · Scikit-learn · SQL · Neo4j · GraphDB
 Power BI · Streamlit · Datenvisualisierung · Machine Learning
 
 **LinkedIn:** linkedin.com/in/natalia-archipenko-335357271
+
 **Ab Januar 2026 offen für Jobangebote** im Bereich Data Analytics & Machine Learning.
 
 ### Technologien & Tools
