@@ -3,7 +3,8 @@
 
 Ich schließe derzeit meine Ausbildung zur **Fachinformatikerin für Daten- und Prozessanalyse** ab und spezialisiere mich auf datengetriebene Modelle, Anomalieerkennung und Zeitreihenanalysen.
 
-Durch mein starkes mathematisches Verständnis, analytisches Denken und meine Affinität zu Zahlen entwickle ich Lösungen, die Präzision und Kreativität vereinen.  
+Durch mein starkes mathematisches Verständnis, analytisches Denken und meine Affinität zu Zahlen entwickle ich Lösungen, 
+die Präzision und Kreativität vereinen.  
 Mit Leidenschaft strukturiere ich Daten, erkenne Muster und baue Modelle, die Unternehmen helfen, fundierte Entscheidungen zu treffen.
 
 ---
