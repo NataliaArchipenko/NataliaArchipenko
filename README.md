@@ -41,10 +41,10 @@ E-Mail: [archipenkon@gmail.com](mailto:archipenkon@gmail.com)
 
 | Projekt | Technologien | Beschreibung | Link |
 |--------|--------------|--------------|------|
-| **Energy Monitor – Anomaly Detection** | Python · Time Series · ML · Streamlit | Monitoring & Anomalieerkennung von Sensordaten | *folgt* |
-| **Financial Fraud Detection – Graph ML** | Neo4j · Node2Vec · ML | Graphbasierte Betrugserkennung in Finanztransaktionen | [Projekt](https://github.com/NataliaArchipenko/...) |
+| **Energy Monitor - Anomaly Detection** | Python · Time Series · ML · Streamlit | Monitoring & Anomalieerkennung von Sensordaten | *folgt* |
+| **Financial Fraud Detection - Graph ML** | Neo4j · Node2Vec · ML | Graphbasierte Betrugserkennung in Finanztransaktionen | [Projekt](https://github.com/NataliaArchipenko/...) |
 | **Graph Embedding Lab** | Graphdaten · Feature Engineering · ML | Experimente mit Graph-Algorithmen & Embeddings | [Repository](https://github.com/NataliaArchipenko/...) |
-| **Falken Klassifikation – ML** | Klassifikation · Feature Engineering · ML | Vergleich klassischer ML-Modelle für Falkenarten (SVC, RF, Naive Bayes) | [Repository](https://github.com/NataliaArchipenko/FALKEN_KLASSIFIKATION) |
+| **Falken Klassifikation - ML** | Klassifikation · Feature Engineering · ML | Vergleich klassischer ML-Modelle für Falkenarten (SVC, RF, Naive Bayes) | [Repository](https://github.com/NataliaArchipenko/FALKEN_KLASSIFIKATION) |
 
 
 
