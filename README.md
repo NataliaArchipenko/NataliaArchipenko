@@ -39,12 +39,15 @@ E-Mail: [archipenkon@gmail.com](mailto:archipenkon@gmail.com)
 
 ## Meine Projekte
 
+## Meine Projekte
+
 | Projekt | Technologien | Beschreibung | Link |
 |--------|--------------|--------------|------|
-| **Energy Monitor - Anomaly Detection** | Python · Time Series · ML · Streamlit | Monitoring & Anomalieerkennung | *folgt* |
-| **Financial Fraud Detection - Graph ML** | Neo4j · Node2Vec · ML | Graphbasierte Fraud Detection | [Projekt](https://github.com/NataliaArchipenko/financial-fraud-detection-graph-ml) |
-| **Graph Embedding Lab** | Graphdaten · Feature Engineering · ML | Experimente mit Graphalgorithmen & Embeddings | [Repo](https://github.com/NataliaArchipenko/graph-embedding-lab) |
-| **FALCON_KLASSIFIKATION** | Klassifikation · Feature Engineering · ML | Modellauswall von klassisches ML | [Repo](https://github.com/NataliaArchipenko/FALCON_KLASSIFIKATION) |
+| **Energy Monitor – Anomaly Detection** | ![Py](https://img.shields.io/badge/Python-3.12-blue) ![TS](https://img.shields.io/badge/Time%20Series-Analysis-purple) ![ML](https://img.shields.io/badge/ML-Scikit--Learn-orange) | Monitoring & Anomalieerkennung von Sensordaten | *folgt* |
+| **Financial Fraud Detection – Graph ML** | ![Neo4j](https://img.shields.io/badge/Neo4j-Graph%20DB-blue) ![Node2Vec](https://img.shields.io/badge/Node2Vec-Embeddings-purple) ![ML](https://img.shields.io/badge/ML-Scikit--Learn-orange) | Graphbasierte Betrugserkennung | [Projekt](https://github.com/NataliaArchipenko/...) |
+| **Graph Embedding Lab** | ![Graph](https://img.shields.io/badge/Graphdaten-NetworkX-green) ![FE](https://img.shields.io/badge/Feature%20Engineering-ML-yellow) | Experimente mit Embeddings & Graph-Algorithmen | [Repository](https://github.com/NataliaArchipenko/...) |
+| **Falken Klassifikation – ML** | ![CLS](https://img.shields.io/badge/Klassifikation-ML-orange) ![FE](https://img.shields.io/badge/Feature%20Engineering-Data-blue) | Vergleich klassischer ML-Modelle für Falkenarten | [Repository](https://github.com/NataliaArchipenko/FALKEN_KLASSIFIKATION) |
+
 
 ---
 
