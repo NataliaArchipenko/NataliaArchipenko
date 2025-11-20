@@ -5,7 +5,6 @@ Derzeit schließe ich meine Umschulung zur **Fachinformatikerin für Daten- und 
 
 Mit meinem starken mathematischen Verständnis, analytischem Denken und meiner Affinität zu Zahlen entwickle ich Lösungen, 
 die Präzision und Kreativität vereinen.  
-Mit Begeisterung strukturiere ich Daten, erkenne Muster und baue Modelle, die Unternehmen helfen, fundierte Entscheidungen zu treffen.
 
 ---
 
