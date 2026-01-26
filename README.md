@@ -1,14 +1,13 @@
-#  Hallo, ich bin Natalia  
-### Data Analytics · Machine Learning · Anomaly Detection · Graphdaten
+# Natalia Archipenko
+### Data Analytics · Machine Learning · Anomaly Detection · Graph Analytics
 
-Derzeit schließe ich meine Umschulung zur **Fachinformatikerin für Daten- und Prozessanalyse (IHK-Zertifikat)** ab und spezialisiere mich auf datengetriebene Modelle, Anomalieerkennung und Zeitreihenanalysen.
+IHK-zertifizierte Fachinformatikerin für Daten- und Prozessanalyse mit Schwerpunkt auf datengetriebenen Modellen, Anomalieerkennung und Zeitreihenanalysen.
 
-Mit meinem starken mathematischen Verständnis, analytischem Denken und meiner Affinität zu Zahlen entwickle ich Lösungen, 
-die Präzision und Kreativität vereinen.  
+Fokus auf präzise Datenanalyse, strukturierte Modellierung und nachvollziehbare Ergebnisse in datengetriebenen Projekten.
 
 ---
 
-##  Aktuell: Open für Jobangebote ab Januar 2026  
+## Open to opportunities (from January 2026)
 **Data Analytics · Data Science · Machine Learning · Business Intelligence**
 
 LinkedIn: [linkedin.com/in/natalia-archipenko-335357271](https://www.linkedin.com/in/natalia-archipenko-335357271)
