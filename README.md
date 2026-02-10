@@ -12,8 +12,6 @@ Fokus auf präzise Datenanalyse, strukturierte Modellierung und nachvollziehbare
 
 LinkedIn: [linkedin.com/in/natalia-archipenko-335357271](https://www.linkedin.com/in/natalia-archipenko-335357271)
 
-E-Mail: [archipenkon@gmail.com](mailto:archipenkon@gmail.com)
-
 ---
 
 ## Tech Stack
