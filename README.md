@@ -22,27 +22,23 @@ E-Mail: [archipenkon@gmail.com](mailto:archipenkon@gmail.com)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-333333?style=flat)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-333333?style=flat)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
-![GraphDB](https://img.shields.io/badge/GraphDB-CC0000?style=flat)
-![SPARQL](https://img.shields.io/badge/SPARQL-1C4587?style=flat)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-
-
 ---
 
-## Meine Projekte
+## Ausgewählte Projekte
 
 | Projekt                           | Technologien                       | Beschreibung                                              | Link        |
 |----------------------------------|------------------------------------|-----------------------------------------------------------|-------------|
-| Energy Monitor  (Anomaly Detection) | Python · Time Series · ML         | Monitoring und Erkennung von Anomalien in Sensordaten      | [Projekt](https://github.com/NataliaArchipenko/energy-monitor-anomaly-detection)       |
+| Energy Monitor (Anomaly Detection) | Python · Time Series · ML         | Monitoring und Erkennung von Anomalien in Sensordaten      | [Projekt](https://github.com/NataliaArchipenko/energy-monitor-anomaly-detection)       |
 | Financial Fraud Detection (Graph) | GraphDB · Node2Vec · ML             | Graphbasierte Betrugserkennung in Finanztransaktionen    | [Projekt](https://github.com/NataliaArchipenko/financial-fraud-detection-graph-ml)   |
 | Graph Embedding Lab              | NetworkX · Embeddings · ML        | Experimente mit Graphalgorithmen und Embeddings            | [Repository](https://github.com/NataliaArchipenko/graph-embedding-lab)  |
-| Falken Klassifikation     | ML · Feature Engineering           | Vergleich klassischer ML-Modelle für Vogelarten          | [Repository](https://github.com/NataliaArchipenko/FALCON_KLASSIFIKATION)  |
+| Falken Klassifikation     | ML · Feature Engineering           | Klassisches ML-Vergleichsprojekt mit Fokus auf Feature Engineering          | [Repository](https://github.com/NataliaArchipenko/FALCON_KLASSIFIKATION)  |
 
 
 
