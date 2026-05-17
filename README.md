@@ -7,7 +7,7 @@ Fokus auf präzise Datenanalyse, strukturierte Modellierung und nachvollziehbare
 
 ---
 
-## Open to opportunities
+## Interests:
 **Data Analytics · Data Science · Machine Learning · Business Intelligence**
 
 LinkedIn: [linkedin.com/in/natalia-archipenko-335357271](https://www.linkedin.com/in/natalia-archipenko-335357271)
